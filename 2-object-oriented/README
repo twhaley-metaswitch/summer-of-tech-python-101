@@ -1,0 +1,8 @@
+Python is an object oriented programming language. Pretty much everything in Python is an object.
+Classes and objects are fundamental concepts in object oriented programming.
+Think of classes as instruction manuals - they describe what an object of that type should look like,
+specifying things like properties of the object, and functions that can be called on the object.
+An object is an instance of a class. This object may have properties and methods that can be called on it.
+
+Classes and objects are difficult concepts to get your head around, so don't be disheartened if you
+don't understand things straight away.

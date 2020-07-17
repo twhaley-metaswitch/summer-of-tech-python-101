@@ -1,0 +1,7 @@
+We start with some fundamentals of Python programming.
+This directory contains a series of numbered "scripts" designed as a working exercise
+to be followed along in a Python console as part of a workshop presentation.
+These files can also be run as python scripts from the command line, e.g. "python fundamentals.py",
+although you probably won't get a lot from that.
+The prompts and content were inspired by the brilliant codebar organisation's tutorials.
+See: https://tutorials.codebar.io/
